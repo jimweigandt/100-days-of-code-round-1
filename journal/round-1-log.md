@@ -15,13 +15,13 @@
 
 #### Project I am working on 
 
-Drum Kit Challenge - JavaScript 30 [link](https://github.com/jimweigandt/JavaScript30/blob/Drum-Kit/01%20-%20JavaScript%20Drum%20Kit/index-START.html)
+[Drum Kit Challenge - JavaScript 30](https://github.com/jimweigandt/JavaScript30/blob/Drum-Kit/01%20-%20JavaScript%20Drum%20Kit/index-START.html)
 
 #### Progress today
 
 For the very first day of my #100DaysofCode I did a ton of learning. I started by reading up on Codecademy about Modules and Promises within JavaScript. I felt I grasped Modules pretty well but by the time I got to Promises I honestly felt somewhat overwhelemed. I barely retained any of it so I need to note that Promises is something I need to revist.
 
-I also went ahead and started working on the very challenge in Wes Bos' JavaScript30 course that he has free online. The first challenge was building a drumkit within a browser. I was initially hoping do to most of it without help but found myself looking back at the video for help.
+I also went ahead and started working on the very first challenge in Wes Bos' JavaScript30 course that he has free online. The first challenge was building a drumkit within a browser. I was initially hoping do to most of it without help but found myself looking back at the video for help.
 
 My attempt at building the drum kit was streamed on Twitch as well and I honestly had fun doing it. Had a couple people come into chat and dropped some nice comments so I am definitely looking forward to streaming more in the future.
 
