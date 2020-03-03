@@ -36,3 +36,23 @@ My attempt at building the drum kit was streamed on Twitch as well and I honestl
 - Complete the next JavaScript30 challenge and attempt to stream it again
 
 ***
+
+## Day 2
+
+#### Project I am working on 
+
+[Codecademy's Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+
+#### Progress today
+
+I went through the Async...Await module on Codecademy and it made a bit more sense than what Promises did yesterday. However, it's still a concept that I'm going to need to keep practicing.
+
+#### Challenges you faced
+
+
+
+#### Tasks for tomorrow
+
+
+
+***
