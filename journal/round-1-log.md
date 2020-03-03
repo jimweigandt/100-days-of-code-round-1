@@ -1,15 +1,20 @@
 # Round 1 Log
 
-**Start date**: XX/XX/XX
+**Start date**: 03/02/20
 
-**End date**: XX/XX/XX
+**End date**: 06/09/20
 
 ## Goals
 
-* Goal 1
-* Goal 2
-* Goal 3
-* ...
+* Stay Consistent
+* Create a major website
+* Learn SASS
+* Begin learning Vue.js (or React)
+* Complete all challanges in JavaScript 30 (1/30)
+* Create websites based off designs found on Dribbble
+* CodeWars
+* Stream on Twitch
+* Interact with other developers
 
 ## Day 1
 
