@@ -61,3 +61,26 @@ I went through the Async...Await module on Codecademy and it made a bit more sen
 
 
 ***
+
+## Day 2
+
+#### Project I am working on 
+
+[Codecademy's Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+[JS and CSS Clock - JavaScrip30](https://github.com/jimweigandt/JavaScript30/blob/Drum-Kit/02%20-%20JS%20and%20CSS%20Clock/index-START.html)
+
+#### Progress today
+
+Finished part one of the Request portion of the Introduction to JavaScript on Codecademy's website. Basically learned how to make a boilerplate 'GET' and 'POST' request.
+
+Created the JS and CSS Clock on the WesBos JavaScript30 course. Made sense on how he built it and I'm consistently getting more exposure to different tools to use for buidling in the future.
+
+#### Challenges you faced
+
+Requests fall in the same bucket as Promises and Async...Await that they make sense, but I will need to revisit them to fully understand.
+
+#### Tasks for tomorrow
+
+- Finish off the Introduction to JavaScript course on Codecademy
+- Try and complete the next JavaScript30 challenge
+
