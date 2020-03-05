@@ -16,6 +16,10 @@
 * Stream on Twitch
 * Interact with other developers
 
+## Week 1
+
+**March 2nd - March 8th**
+
 ## Day 1
 
 #### Project I am working on 
@@ -59,10 +63,9 @@ I went through the Async...Await module on Codecademy and it made a bit more sen
 #### Tasks for tomorrow
 
 
-
 ***
 
-## Day 2
+## Day 3
 
 #### Project I am working on 
 
@@ -84,3 +87,24 @@ Requests fall in the same bucket as Promises and Async...Await that they make se
 - Finish off the Introduction to JavaScript course on Codecademy
 - Try and complete the next JavaScript30 challenge
 
+
+***
+
+## Day 4
+
+#### Project I am working on 
+
+[Codecademy's Introduction to JavaScript - Requests II](https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-ii/resume)
+
+
+#### Progress today
+
+Finally finished out the Introduction to JavaScript course on [Codecademy](https://www.codecademy.com/) which has been a long time coming. This required learning about Requests for second straight day. The only difference was it including catch, try, incorporating async and await within the requests. Honestly, the only thing that I have picked up this week in regards to Promises and Requests is just being exposed to them. The retention and how they really work is something that is going to take a lot of time. I would like a much better understanding of this concept before I jump into a framework.
+
+#### Challenges you faced
+
+Retention on promises and requests is just not there yet. Pretty much was just exposed to these concepts and that's it.
+
+#### Tasks for tomorrow
+
+- 
