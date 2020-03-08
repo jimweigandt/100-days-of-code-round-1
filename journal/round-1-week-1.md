@@ -20,7 +20,7 @@
 
 **March 2nd - March 8th**
 
-## Day 1
+## Day 1 - March 2nd, 2020
 
 #### Project I am working on 
 
@@ -46,7 +46,7 @@ My attempt at building the drum kit was streamed on Twitch as well and I honestl
 
 ***
 
-## Day 2
+## Day 2 - March 3rd, 2020
 
 #### Project I am working on 
 
@@ -65,7 +65,7 @@ I went through the Async...Await module on Codecademy and it made a bit more sen
 
 ***
 
-## Day 3
+## Day 3 - March 4th, 2020
 
 #### Project I am working on 
 
@@ -87,10 +87,9 @@ Requests fall in the same bucket as Promises and Async...Await that they make se
 - Finish off the Introduction to JavaScript course on Codecademy
 - Try and complete the next JavaScript30 challenge
 
-
 ***
 
-## Day 4
+## Day 4 - March 5th, 2020
 
 #### Project I am working on 
 
@@ -107,4 +106,43 @@ Retention on promises and requests is just not there yet. Pretty much was just e
 
 #### Tasks for tomorrow
 
-- 
+***
+
+## Day 5 - March 6th, 2020
+
+#### Project I am working on 
+
+N/A
+
+#### Progress today
+
+Unfortunatly this was the first day that I failed to do an hour of coding. I actually was not able to do any work whatsoever.
+
+#### Challenges you faced
+
+Just need to get back to it the next day.
+
+#### Tasks for tomorrow
+
+- JavaScript30 challenge
+
+***
+
+## Day 6 - March 7th, 2020
+
+#### Project I am working on 
+
+Finished Challenge 3 of JavaScript30 - Dealing with CSS Variables and JavaScript
+
+#### Progress today
+
+Completed Challenge 3 of JavaScript30 that dealt with declaring variables in vanilla CSS and using them in JavaScript. Basically created scrolling bars and a color picker to blur and change the background square colors. I also found out a cool feature in Chrome DevTools that basically tells you the different built in methods that appear in a NodeList and an Array.
+
+#### Challenges you faced
+
+Everything made sense from the challenge which is nice.
+
+#### Tasks for tomorrow
+
+- Another JavaScript challenge
+- Maybe work on a project instead of a tutorial or challenge
