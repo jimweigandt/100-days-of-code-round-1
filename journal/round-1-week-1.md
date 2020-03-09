@@ -146,3 +146,28 @@ Everything made sense from the challenge which is nice.
 
 - Another JavaScript challenge
 - Maybe work on a project instead of a tutorial or challenge
+
+***
+
+## Day 7 - March 8th, 2020
+
+#### Project I am working on 
+
+[Continued to work on the Driblr design that I found on Dribble.](https://github.com/jimweigandt/sport-prototype) 
+
+#### Progress today
+
+I actually worked from about 11:30PM into 1:30PM last night so technically got an hour in for today. I was due to actually just build something. I completed the nav making it responsive on all displays. But now thinking back on it, I need to figure out the mobile nav.
+
+The coursel protion of the website is definitely throwing me through a loop. Not the carousel itself, but actually images being placed on top of other images (or elements on top of other elements). The hardest part is going to make that responsive.
+
+I am also still needing to write a reflection for this week and post to dev.to.
+
+#### Challenges you faced
+
+When I have images on top of images, I was having difficulties making them responsive and stay in the places they need to stay in.
+
+#### Tasks for tomorrow
+
+- Possibly go through the backend JavaScript lessons on Codecademy again and maybe take notes. Just to reinforce the concepts more
+- Do another JavaScript30 challenge
